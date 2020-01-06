@@ -2,6 +2,7 @@
 ![PyTorch 1.1](https://img.shields.io/badge/PyTorch-1.1-yellow.svg)
 
 # Mutual Mean-Teaching (MMT)
+## Please move to the official repository <https://github.com/yxgeee/MMT>.
 
 The source code for the ICLR-2020 submission
 [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/forum?id=rJlnOhVYPS).
